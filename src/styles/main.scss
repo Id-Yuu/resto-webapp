@@ -74,6 +74,9 @@ p {
         color: $color-white;
         text-decoration: none;
         display: inline-block;
+        padding: 12px;
+        min-width: 44px;
+        min-height: 44px;
       }
     }
   }
